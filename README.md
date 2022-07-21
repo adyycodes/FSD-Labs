@@ -1,2 +1,2 @@
 # FSD-Labs
-(Google)<google.co.in>
+[Google](google.co.in)
